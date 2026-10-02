@@ -31,7 +31,7 @@ Python-Practice-Ethan-Tech/
 └── README.md
 ```
 
-##1. Loops
+## 1. Loops
 The Loops folder contains practice exercises on iteration in Python.
 
 Topics covered:
@@ -45,7 +45,7 @@ Finding matching values between two lists
 Checking for common values across three lists
 This section helps learners understand how loops work and how they can be used to process repeated tasks efficiently.
 
-##2. Operators
+## 2. Operators
 The Operators folder includes examples for all major types of Python operators.
 
 Topics covered:
@@ -65,7 +65,7 @@ Bitwise AND, OR, XOR, and shift operations
 Checking object identity and membership in sequences
 This section is essential for understanding how Python evaluates expressions and conditions.
 
-##3. String
+## 3. String
 The String folder focuses on string handling and basic text operations.
 
 Topics covered:
@@ -80,7 +80,7 @@ Using special characters like newline and tab
 Printing text with proper escaping
 This section helps beginners understand how strings are manipulated in Python.
 
-##Learning Goals
+### Learning Goals
 By working through this repository, learners will:
 
 Understand Python loops and how iteration works
@@ -96,11 +96,11 @@ Run each cell in order.
 Modify the examples to experiment with your own inputs.
 Practice by creating new examples based on the concepts learned.
 
-##Purpose
+### Purpose
 This repository is a beginner-focused Python practice project designed to reinforce core programming fundamentals through simple, real-world examples.
 
-##Author
+### Author
 Python Practice - Om Pardeshi(Ethan Tech)
 
-##Conclusion
+### Conclusion
 This project is a simple but effective learning resource for mastering Python basics. It is especially useful for beginners who want hands-on practice with loops, operators, and strings.
